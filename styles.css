@@ -1,0 +1,51 @@
+/*Navbar formating */
+.navbar {
+    background-color: white!important;
+}
+
+.navbar-brand img {
+    height: 30px;
+}
+
+.nav-item {
+    color: #00471b!important
+}
+
+/*Jumbotron formating */
+.jumbotron {
+    background-color: #eee1c6;
+}
+
+.display-4 {
+    color: #0077c0!important;
+}
+
+.lead {
+    color: #0077c0!important;
+}
+
+.my-4 {
+    color: #0077c0!important;
+}
+
+/*Grid formating */
+
+
+
+/*Non-component formating */
+body {
+    background-color: white
+}
+
+h1 {
+    color: #00471b!important;
+}
+
+h4 {
+    color: #00471b!important;
+}
+
+p {
+    color: #00471b!important;
+}
+
