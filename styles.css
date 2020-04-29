@@ -7,6 +7,14 @@
     height: 30px;
 }
 
+.nav-link {
+    font-family: "Overpass-Mono", monospace;
+}
+
+.btn-outline-info {
+    font-family: "Overpass-Mono", monospace;
+}
+
 .nav-item {
     color: #00471b!important
 }
@@ -18,6 +26,8 @@
 
 .display-4 {
     color: #0077c0!important;
+    font-family: "Overpass-Mono", monospace;
+    font-weight: 700;
 }
 
 .lead {
@@ -28,11 +38,27 @@
     color: #0077c0!important;
 }
 
+.btn-primary {
+    font-family: "Overpass-Mono", monospace;
+}
+
 /*Grid formating */
 .img-fluid {
     border-radius: 5px;
 }
 
+.form-text {
+    font-family: "Overpass-Mono", monospace;
+}
+
+.form-group {
+    font-family: "Overpass-Mono", monospace;
+}
+
+/*Non-component formating */
+.list-unstyled {
+    font-family: "Overpass-Mono", monospace;
+}
 
 /*Non-component formating */
 body {
@@ -41,17 +67,28 @@ body {
 
 h1 {
     color: #00471b!important;
+    font-family: 'Overpass-Mono', monospace;
+    font-weight: 700;
 }
 
 h4 {
     color: #00471b!important;
+    font-family: "Overpass-Mono", monospace;
+    font-weight: 700;
+}
+
+h5 {
+    color: #00471b!important;
+    font-family: "Overpass-Mono", monospace;
 }
 
 h6 {
-    color: #0077c0;
+    color: #0077c0!important;
+    font-family: "Overpass-Mono", monospace;
 }
 
 p {
     color: #00471b!important;
+    font-family: "Overpass-Mono", monospace;
 }
 
