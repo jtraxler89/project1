@@ -96,10 +96,11 @@ h3 {
     color: #0077c0!important;
     font-family: "Overpass-Mono", monospace;
     font-weight: 700;
+}
 
 h4 {
     color: #00471b!important;
-    font-family: "Overpass-Mono", monospace;
+    font-family: 'Overpass-Mono', monospace;
     font-weight: 700;
 }
 
