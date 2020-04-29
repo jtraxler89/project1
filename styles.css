@@ -13,8 +13,14 @@
 
 .btn-outline-info {
     font-family: "Overpass-Mono", monospace;
+    color: white!important;
+    border-color: #0077c0!important;
+    font-weight: 600;
 }
 
+.btn {
+    background-color: #0077c0!important;
+}
 .nav-item {
     color: #00471b!important
 }
