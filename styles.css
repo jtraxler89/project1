@@ -60,6 +60,34 @@
     font-family: "Overpass-Mono", monospace;
 }
 
+/*Embedded YouTube Video */
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+/*Tables formating */
+.table {
+    table-layout: fixed;
+    color: #00471b!important;
+}
+  
+.td {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
 /*Non-component formating */
 body {
     background-color: white
@@ -70,6 +98,11 @@ h1 {
     font-family: 'Overpass-Mono', monospace;
     font-weight: 700;
 }
+
+h3 {
+    color: #0077c0!important;
+    font-family: "Overpass-Mono", monospace;
+    font-weight: 700;
 
 h4 {
     color: #00471b!important;
