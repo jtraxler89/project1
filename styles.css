@@ -29,7 +29,9 @@
 }
 
 /*Grid formating */
-
+.img-fluid {
+    border-radius: 5px;
+}
 
 
 /*Non-component formating */
@@ -43,6 +45,10 @@ h1 {
 
 h4 {
     color: #00471b!important;
+}
+
+h6 {
+    color: #0077c0;
 }
 
 p {
