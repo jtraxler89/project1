@@ -81,13 +81,6 @@
     color: #00471b!important;
 }
   
-.td {
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-}
-
-
 /*Non-component formating */
 body {
     background-color: white
