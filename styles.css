@@ -84,7 +84,8 @@
   
 /*Non-component formating */
 body {
-    background-color: white
+    background-color: white;
+    font-family: 'Overpass-Mono', monospace;
 }
 
 h1 {
