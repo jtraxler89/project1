@@ -61,19 +61,20 @@
 }
 
 /*Embedded YouTube Video */
-.iframe-container{
+.iframe-container {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%; 
     height: 0;
-  }
-  .iframe-container iframe{
+}
+
+.iframe-container iframe {
     position: absolute;
     top:0;
     left: 0;
     width: 100%;
     height: 100%;
-  }
+}
 
 /*Tables formating */
 .table {
@@ -82,39 +83,39 @@
 }
   
 /*Non-component formating */
-body {
+.body {
     background-color: white
 }
 
-h1 {
+.h1 {
     color: #00471b!important;
     font-family: 'Overpass-Mono', monospace;
     font-weight: 700;
 }
 
-h3 {
+.h3 {
     color: #0077c0!important;
     font-family: "Overpass-Mono", monospace;
     font-weight: 700;
 }
 
-h4 {
+.h4 {
     color: #00471b!important;
     font-family: 'Overpass-Mono', monospace;
     font-weight: 700;
 }
 
-h5 {
+.h5 {
     color: #00471b!important;
     font-family: "Overpass-Mono", monospace;
 }
 
-h6 {
+.h6 {
     color: #0077c0!important;
     font-family: "Overpass-Mono", monospace;
 }
 
-p {
+.p {
     color: #00471b!important;
     font-family: "Overpass-Mono", monospace;
 }
