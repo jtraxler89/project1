@@ -46,6 +46,7 @@
 
 .btn-primary {
     font-family: "Overpass-Mono", monospace;
+    margin-top: 10px;
 }
 
 /*Grid formatting */
@@ -55,10 +56,17 @@
 
 .form-text {
     font-family: "Overpass-Mono", monospace;
+    color: #00471b!important;
 }
 
 .form-group {
     font-family: "Overpass-Mono", monospace;
+    color: #00471b!important;
+}
+
+.form-check-label {
+    font-family: "Overpass-Mono", monospace;
+    color: #00471b!important;
 }
 
 /*Footer formatting */
