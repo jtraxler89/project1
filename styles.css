@@ -1,4 +1,4 @@
-/*Navbar formating */
+/*Navbar formatting */
 .navbar {
     background-color: white!important;
 }
@@ -25,7 +25,7 @@
     color: #00471b!important
 }
 
-/*Jumbotron formating */
+/*Jumbotron formatting */
 .jumbotron {
     background-color: #eee1c6;
 }
@@ -48,7 +48,7 @@
     font-family: "Overpass-Mono", monospace;
 }
 
-/*Grid formating */
+/*Grid formatting */
 .img-fluid {
     border-radius: 5px;
 }
@@ -61,10 +61,13 @@
     font-family: "Overpass-Mono", monospace;
 }
 
-/*Non-component formating */
+/*Footer formatting */
 .list-unstyled {
     font-family: "Overpass-Mono", monospace;
 }
+
+/*Carousel formatting */
+
 
 /*Embedded YouTube Video */
 .iframe-container {
@@ -82,13 +85,13 @@
     height: 100%;
 }
 
-/*Tables formating */
+/*Tables formatting */
 .table {
     table-layout: fixed;
     color: #00471b!important;
 }
   
-/*Non-component formating */
+/*Non-component formatting */
 body {
     background-color: white;
     font-family: 'Overpass-Mono', monospace;
@@ -98,18 +101,22 @@ h1 {
     color: #00471b!important;
     font-family: 'Overpass-Mono', monospace;
     font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 h3 {
     color: #0077c0!important;
     font-family: "Overpass-Mono", monospace;
     font-weight: 700;
+    margin-top: 10px;
 }
 
 h4 {
     color: #00471b!important;
     font-family: 'Overpass-Mono', monospace;
     font-weight: 700;
+    margin-top: 15px;
 }
 
 h5 {
